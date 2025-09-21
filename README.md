@@ -8,11 +8,9 @@ Generate a polar animation (MP4) of daily lunar illumination for New York, USA i
 - Render daily frames and encode a smooth MP4 with imageio/ffmpeg.
 
 ## Demo
-- Watch the video: [moon_phase_animation_2024.mp4](./moon_phase_animation_2024.mp4)
+- Preview (GIF): [moon_phase_animation_2024.gif](./moon_phase_animation_2024.gif)
 
-<video src="moon_phase_animation_2024.mp4" width="480" controls muted>
-Your browser does not support embedded video. Please download the MP4 above.
-</video>
+![Preview](./moon_phase_animation_2024.gif)
 
 ## Requirements
 - Python 3.7+
